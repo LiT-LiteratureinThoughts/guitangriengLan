@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## Hi chào Lân, một ban quá là hảo 
 
-You can use the [editor on GitHub](https://github.com/LiT-LiteratureinThoughts/guitangriengLan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# From Thanh Thanh iu dấu từ ban Sự kiện của Lộc: 
+hí lu bạn Lân iu mến 🙄, trong năm qua bạn đã đóng góp rất nhiều cho ban tài chính nói riêng và Lit nói chung🙆🏻‍♀️. Tuy chúng ta đã làm việc với nhau một khoảng thời gian tuỳ không quá dài nhưng mà cũng đủ để hiểu nhau nhỉ😗, vậy mà ta vẫn chưa có dịp làm việc trực tiếp với nhau. Tui mong sang năm mới dịch ổn định hơn để có thể gặp mọi ng trong clb và có thể hiểu thêm về mọi người cũng như là lân 🥺.Nhân đây mình cũng muốn gửi đôi lời chúc với bạn lân đẹp zai này. Chúc bạn sang năm mới luôn luôn khoẻ mạnh, vui vẻ, luôn tươi cười, vững tin và không bỏ cuộc dù cho phía trước có nhiều khó khăn nhé! Thêm một năm nữa cũng là cột mốc đánh dấu sự trưởng thành của bản thân, cũng cầu chúc cho m sớm đạt được mong muốn, chạm tay đến ước mơ, tiến gần hơn với thành công. Mãi iu 💛
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LiT-LiteratureinThoughts/guitangriengLan/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
